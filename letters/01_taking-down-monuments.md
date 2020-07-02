@@ -20,8 +20,6 @@ This extends even to Confederate statues. These monuments were erected as a sign
 
 Pretty or not, this is our great American story, and I believe it's worth preserving -- only under the most severe of circumstances, and with the open and public engagement that is typical with decisions about public displays of art, should a relic of our history be banished to the corner of a second-rate museum.
 
-It reminds me of seeing the conquistador statues in San Francisco. The cognitive dissonance! The most liberal city in America has a monument glorifying the brutal Spaniards that conquered the California coast. It made me appreciate how beautiful it is that we as a society can embrace and acknowledge our history -- even appreciate it, enjoy it -- no matter how dark it is. The conquistador statues speak to the fact that we are an accepting people and a free society -- one that has grown beyond the bigotry of the past. 
-
 Those statues are testament to our tradition of tolerance and valued relics of our history, and I believe for that reason they should remain.
 
 Respectfully,
