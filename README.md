@@ -16,4 +16,4 @@ You can write your own message, or use one of the pre-written letters listed bel
 
 We're writing letters you can either send as they are or customize as you see fit (or just to use as inspiration). They are:
 
-- [Taking down monuments and statues](https://github.com/timbodini/write-to-congress/blob/master/letters/01_taking-down-monuments.md)
+- [Request to stop defacing and taking down monuments and statues](https://github.com/timbodini/write-to-congress/blob/master/letters/01_taking-down-monuments.md)

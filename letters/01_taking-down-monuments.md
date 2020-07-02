@@ -1,4 +1,4 @@
-# Write to Congress about defacing and removing monuments
+# Write to Congress to put a stop to vandalism and removal of monuments
 
 This document provides instructions to, **in under 5 minutes**, contact your elected representatives about the issue of **defacing and removing monuments**. An example letter is pasted below: feel free to use this in its entirety, or to edit it, or of course to write your own!
 
