@@ -20,7 +20,7 @@ This extends even to Confederate statues. These monuments were erected as a sign
 
 Pretty or not, this is our great American story, and I believe it's worth preserving -- only under the most severe of circumstances, and with the open and public engagement that is typical with decisions about public displays of art, should a relic of our history be banished to the corner of a second-rate museum.
 
-Those statues are testament to our tradition of tolerance and valued relics of our history, and I believe for that reason they should remain.
+Those statues are testament to our tradition of tolerance and valued reminders of days long past, and I believe for that reason they should remain.
 
 Respectfully,
 
