@@ -1,16 +1,16 @@
 # Write to Congress about defacing and removing monuments
 
-This document provides instructions to, **in under 5 minutes**, contact your elected representatives about the issue of defacing and removing monuments. An example letter is pasted below: feel free to use this in its entirety, or to edit it, or of course to write your own!
+This document provides instructions to, **in under 5 minutes**, contact your elected representatives about the issue of **defacing and removing monuments**. An example letter is pasted below: feel free to use this in its entirety, or to edit it, or of course to write your own!
 
 ## Notes
 
-- Remember to replace the sections highlighted in red with the name of your representatives (at the top) and your name on the signature line (at the bottom).
+- Remember to replace the sections in bold with the name of your representatives (at the top) and your name on the signature line (at the bottom).
 - To submit this letter to all your congressmen in **5 minutes or less**, check out [these instructions](https://github.com/timbodini/write-to-congress).
 - Suggested categories: civil rights, law enforcement, history/cultural issues
 
 ## Text of letter 
 
-<span style="color: red">Sen. ______, Rep. ______:</span>
+**[Sen. ______, Rep. ______:]**
 
 I am writing to express my deep concern over the recent exuberance with which statues and monuments around the country have been defaced and taken down, often without any process of engaging the general public, and sometimes in coordination with protestors, that is to say a particular political group of which I am not a member.
 
@@ -26,5 +26,5 @@ Those statues are testament to our tradition of tolerance and valued relics of o
 
 Respectfully,
 
-<span style="color: red">YOUR NAME</span>
+**[YOUR NAME]**
 
