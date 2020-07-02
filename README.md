@@ -4,6 +4,12 @@ Americans need to be involved and active in the political process. This is a rep
 
 Using this repository, you can make your voice heard with your senators and congressmen in five minutes max.
 
+## Our letters
+
+We're writing letters you can either send as they are or customize as you see fit (or just to use as inspiration). They are:
+
+- [Taking down monuments and statues](https://github.com/timbodini/write-to-congress/blob/master/letters/01_taking-down-monuments.md)
+
 ## The easy way to get in touch with members of Congress
 
 There is a tool called [democracy.io](https://democracy.io) that automatically sends a message to Congress on your behalf.
