@@ -17,3 +17,4 @@ You can write your own message, or use one of the pre-written letters listed bel
 We're writing letters you can either send as they are or customize as you see fit (or just to use as inspiration). They are:
 
 - [Request to stop defacing and taking down monuments and statues](https://github.com/timbodini/write-to-congress/blob/master/letters/01_taking-down-monuments.md)
+- [Support of local police departments and request for clarity on officers' right to self-defense](https://github.com/timbodini/write-to-congress/blob/master/letters/02-support-the-police.md)
